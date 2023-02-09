@@ -1,0 +1,2 @@
+# Perpustakaan
+Perpustakaan online adalah sebuah sistem pengelolaan dan akses informasi digital yang memungkinkan pengguna untuk meminjam, membaca, dan mengunduh buku elektronik, jurnal, dan dokumen lainnya melalui internet. Perpustakaan online menyediakan akses ke koleksi digital yang dapat diakses dari mana saja, selama ada koneksi internet. Ini memberikan fleksibilitas dan aksesibilitas yang lebih besar dibandingkan dengan perpustakaan fisik tradisional, sehingga memungkinkan pengguna untuk menemukan dan mempelajari informasi dari mana saja dan kapan saja.
